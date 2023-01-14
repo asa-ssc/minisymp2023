@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Mini-Symposium 2022'
+title: 'Mini-Symposium 2023'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 # slogan: 'A Flexible Theme for Jekyll'
@@ -26,7 +26,7 @@ credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://asa-ssc.github.io'
-baseurl: '/minisymp2022'
+baseurl: '/minisymp2023'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://asa-ssc.github.io/minisymp2022/images/'
+urlimg: 'https://asa-ssc.github.io/minisymp2023/images/'
 
 
 # Logo size is 600x80 pixels
