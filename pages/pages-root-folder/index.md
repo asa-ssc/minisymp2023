@@ -6,8 +6,8 @@ permalink: /index.html
 homepage: true
 ---
 
-+ **Date/Time:** Saturday, Nov. 12, 11 am -- 3:30 pm Central Time
-+ **Location:** Online
++ **Date/Time:** TBA
++ **Location:** TBA
 
 Organized by the [ASA Section on Statistical
 Computing](https://community.amstat.org/jointscsg-section/home), the
