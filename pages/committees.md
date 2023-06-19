@@ -5,22 +5,14 @@ header: no
 permalink: /committees/
 ---
 
-#### Steering Committee
-+ [Mine Cetinkya-Rundel](https://scholars.duke.edu/person/mine), Duke University
-+ [Usha Govindarajulu](https://profiles.mountsinai.org/usha-govindarajulu), Icahn School of Medicine at Mount Sinai
-+ [Jun Yan](https://stat.uconn.edu/jun-yan/), University of Connecticut 
-
 #### Program Committee
-+ [Kun Chen](), Co-chair, University of Connecticut
-+ [Linglong Kong](), Co-chair, University of Alberta
-+ [Sam Tyner](https://sctyner.me), Tritura
-+ [Hua Zhou](https://ph.ucla.edu/faculty/zhou), University of California, Los Angeles
++ [Kun Chen](https://kun-chen.uconn.edu) (co-chair), University of Connecticut
++ [David Dahl](https://dahl.byu.edu/) (co-chair), University of Alberta
++ [Stephanie Hicks](https://publichealth.jhu.edu/faculty/3639/stephanie-c-hicks), Johns Hopkins University
++ [Mingzhao Hu](https://www.linkedin.com/in/mingzhaohu/), Mayo Clinic
++ [Jun Yan](https://stistics.uconn.edu/person/jun-yan/), University of Connecticut 
+
 
 #### Web Support Committee
-+ [James Flegal](https://faculty.ucr.edu/~jflegal/), University of California,
-  Riverside
-+ [Jun Yan](https://stat.uconn.edu/jun-yan/), University of Connecticut
-+ [Yelie Yuan](https://yelie-yuan.netlify.app), University of Connecticut
-
-
-
++ [Jun Yan](https://statistics.uconn.edu/person/jun-yan/), University of Connecticut
++ [Yelie Yuan](https://yelieyuan.com), University of Connecticut
