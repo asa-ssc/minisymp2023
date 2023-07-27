@@ -29,3 +29,4 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/test
 
 + `_01_settings_colors.scss` line 38 `$topbar-text-color`
 + `_01_settings_colors.scss` line 39 `$topbar-active-color` (active page)
++ Title color: `_navigation.html` line 23 `style="color:white"`
