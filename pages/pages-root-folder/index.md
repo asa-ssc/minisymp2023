@@ -17,6 +17,8 @@ mini-symposium aims to
 + help practitioners sharpen their statistical computing skills; and
 + foster community across different computing languages.
 
++ **History:** [2022](https://asa-ssc.github.io/minisymp2022/)
+
 <!-- ---- -->
 
 <!-- Examples for including images and PDFs. -->
