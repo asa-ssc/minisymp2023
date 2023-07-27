@@ -319,7 +319,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       }
 
       ul li {
-        background: $topbar-dropdown-bg;
+        background: $topbar-background;
         & > a {
           display: block;
           width: 100%;
@@ -368,9 +368,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         &.active > a {
           background: $topbar-link-bg-active;
           color: $topbar-link-color-active;
+          font-weight: bolder;
           &:hover {
             background: $topbar-link-bg-active-hover;
             color: $topbar-link-color-active-hover;
+            font-weight: bolder;
           }
         }
       }
@@ -531,9 +533,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               line-height: $topbar-height;
               color: $topbar-link-color-active;
               background: $topbar-link-bg-active;
+              font-weight: bolder;
               &:hover {
                 background: $topbar-link-bg-active-hover;
                 color: $topbar-link-color-active-hover;
+                font-weight: bolder;
               }
             }
           }

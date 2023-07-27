@@ -27,14 +27,15 @@ $body-bg            : #fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1               : #334D5C; // dark turquoise
-/* menu bar color: hover on selected */
 $ci-2               : #3A86FF; // Cornflower Blue
 $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
-/* menu bar color: hover*/
-$ci-6               : #87CEFA; // Light Sky Blue
+$ci-6               : #001648; // Light Sky Blue
 
+$topbar-background  : #000e2f;
+$topbar-text-color  : #bfc3cb;
+$topbar-active-color: white;
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
@@ -73,35 +74,36 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : $body-bg;
+// nav bar color
+$topbar-bg-color    : $topbar-background;
 $topbar-bg          : $topbar-bg-color;
 
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color  : #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color  : $topbar-text-color;
+$topbar-link-color-hover: $topbar-active-color;
+$topbar-link-color-active: $topbar-active-color;
+$topbar-link-color-active-hover: $topbar-active-color;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $topbar-background;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $topbar-background; // Active Navigation Link
+$topbar-link-bg-hover: $topbar-background;
+$topbar-link-bg-active-hover: $topbar-background;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-bg: $topbar-background; // Background Mobile Navigation
+$topbar-dropdown-link-color: #bfc3cb;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
+$topbar-menu-link-color: $topbar-text-color;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $topbar-text-color;
+$topbar-menu-icon-color-toggled: $topbar-text-color;
 
 
 
