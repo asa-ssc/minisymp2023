@@ -18,7 +18,7 @@ permalink: /program/
 + 11:10 am – 11:50 pm: Keynote Address (Chair: [David Dahl](https://dahl.byu.edu/))
     - Speaker: TBA
     - Abstract: TBA
-+ 11:50 pm – 13:05 pm: Data Jamboree (Chair: TBA)
++ 11:50 pm – 13:05 pm: Data Jamboree (Chair: [Sam Tyner](https://sctyner.me), Tritura)
     Each language, in alphabetical order, will be allocated 15 minutes to tackle
     the same problems from the NYC 311 requests data, followed by questions/answers.
     - Julia: TBA
