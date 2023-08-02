@@ -16,15 +16,22 @@ permalink: /program/
       Department of Statistical Science, Duke University; 
 	  2023 Chair, Section on Statistical Computing, ASA
 + 11:10 am – 11:50 pm: Keynote Address (Chair: [David Dahl](https://dahl.byu.edu/))
-    - Speaker: TBA
+    - Speaker: [Simon Urbanek](https://urbanek.info),
+	Executive Editor of R Journal;
+	Senior Lecturer of Data Science, University of AucklandTBA
     - Abstract: TBA
 + 11:50 pm – 13:05 pm: Data Jamboree (Chair: [Sam Tyner](https://sctyner.me), Tritura)
     Each language, in alphabetical order, will be allocated 15 minutes to tackle
     the same problems from the NYC 311 requests data, followed by questions/answers.
     - Julia: TBA
-    - Python: TBA
+    - Python: [Shannon Taas](https://neeley-tass.byu.edu), Associate Professor, 
+	Department of Statistics, Brigham Young University 
     - R: TBA
 + 13:10 pm - 14:25 pm: Lightning Session (Chair: [Kun
   Chen](https://kun-chen.uconn.edu), University of Connecticut)
 + 14:30 pm - 15:30 pm: Panel Discussion (Moderator: TBA)
-    - Panelist: TBA
+    - Theme: Open-source software, open data, and open computing
+    - Panelist:
+        + [Tracy Teal](https://www.linkedin.com/in/tracy-teal-059136b/), Open Source Program Director, Posit PBC
+        + [Carol Willing](https://www.willingconsulting.com/about/), Python and Jupyter Core Developer, VP of Engineering, Noteable
+        + [Achim Zeileis](https://www.zeileis.org), Editor-in-Chief of Journal of Statistical Software; Professor, Universität Innsbruck
