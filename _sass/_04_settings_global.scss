@@ -334,7 +334,7 @@ $accordion-navigation-padding: rem-calc(12);
 // $accordion-navigation-font-size: rem-calc(16);
 // $accordion-navigation-font-family: $body-font-family;
 
-// $accordion-content-padding: $column-gutter/2;
+// $accordion-content-padding: calc($column-gutter / 2);
 $accordion-content-active-bg-color: $body-bg;
 
 // 02. Alert Boxes
@@ -582,7 +582,7 @@ $crumb-slash: "/";
 // $dropdown-button-padding-tny: $button-pip-tny * 7;
 // $dropdown-button-pip-size-tny: $button-pip-tny;
 // $dropdown-button-pip-opposite-tny: $button-pip-tny * 3;
-// $dropdown-button-pip-top-tny: -$button-pip-tny / 2 + rem-calc(1);
+// $dropdown-button-pip-top-tny: calc(-1 * $button-pip-tny / 2) + rem-calc(1);
 
 // We use these to style small dropdown buttons
 // $dropdown-button-padding-sml: $button-pip-sml * 7;
@@ -1144,7 +1144,7 @@ $side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%)
 $side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
 $side-nav-font-size: rem-calc(16);
 
-// $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
+// $side-nav-link-bg-hover: hsla(0, 0%, 0%, 0.025);
 // $side-nav-link-margin: 0;
 // $side-nav-link-padding: rem-calc(7 14);
 // $side-nav-font-size: rem-calc(14);
@@ -1321,7 +1321,7 @@ $table-head-bg: $grey-2;
 // $tabs-navigation-font-family: $body-font-family;
 
 // $tabs-content-margin-bottom: rem-calc(24);
-// $tabs-content-padding: $column-gutter/2;
+// $tabs-content-padding: calc($column-gutter / 2);
 
 // $tabs-vertical-navigation-margin-bottom: 1.25rem;
 
@@ -1405,7 +1405,7 @@ $topbar-link-font-size: rem-calc(15);
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
 $topbar-link-text-transform: uppercase;
-// $topbar-link-padding: $topbar-height / 3;
+// $topbar-link-padding: calc($topbar-height / 3);
 // $topbar-back-link-size: $h5-font-size;
 // $topbar-link-dropdown-padding: 20px;
 
