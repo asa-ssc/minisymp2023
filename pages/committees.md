@@ -5,7 +5,7 @@ header: no
 permalink: /committees/
 ---
 
-#### Program Committee
+#### Organizing Committee
 + [Kun Chen](https://kun-chen.uconn.edu) (co-chair), University of Connecticut
 + [David Dahl](https://dahl.byu.edu/) (co-chair), Brigham Young University
 + [Mingzhao Hu](https://sites.google.com/view/mingzhaohu), Mayo Clinic
