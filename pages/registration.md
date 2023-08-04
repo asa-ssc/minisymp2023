@@ -5,6 +5,8 @@ header: no
 permalink: /registration/
 ---
 
+### Register now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
+
 The registration was designed to encourage becoming Section on Statistical
 Computing (SSC) members. 
 
@@ -22,4 +24,4 @@ For non-ASA members, please consider [joining
 ASA](https://www.amstat.org/membership/become-a-member). 
 For ASA members, please keep your ASA member ID handy for registration.
 
-<!-- ### Register now on [Eventbrite](https://www.eventbrite.com/e/statistical-computing-in-action-2022-registration-408266324567)! -->
+### Register now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
