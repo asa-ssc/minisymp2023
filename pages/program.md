@@ -30,6 +30,9 @@ permalink: /program/
     - R: TBA
 + 13:10 pm - 14:25 pm: Lightning Session (Chair: [Kun
   Chen](https://kun-chen.uconn.edu), University of Connecticut)
+    - Abstract submission deadline: Monday, October 2, 2023
+    - Notification: Accepted abstracts will be notified by Monday, October 16, 2023
+    - Submit your abstract [here](https://forms.gle/5ZYbePJtAnsqXqhN7)
 + 14:30 pm - 15:30 pm: Panel Discussion (Moderator: TBA)
     - Theme: Open-source software, open data, and open computing
     - Panelist:
