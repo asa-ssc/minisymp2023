@@ -18,12 +18,13 @@ permalink: /program/
 + 11:10 am – 11:50 pm: Keynote Address (Chair: [David Dahl](https://dahl.byu.edu/))
     - Speaker: [Simon Urbanek](https://urbanek.info),
 	Executive Editor of R Journal;
-	Senior Lecturer of Data Science, University of AucklandTBA
+	Senior Lecturer of Data Science, University of Auckland
     - Abstract: TBA
 + 11:50 pm – 13:05 pm: Data Jamboree (Chair: [Sam Tyner](https://sctyner.me), Tritura)
     Each language, in alphabetical order, will be allocated 15 minutes to tackle
     the same problems from the NYC 311 requests data, followed by questions/answers.
-    - Julia: TBA
+    - Julia: [HaiYing Wang](https://ossifragus.github.io), Associate Professor,
+      Department of Statistics, University of Connecticut
     - Python: [Shannon Taas](https://neeley-tass.byu.edu), Associate Professor, 
 	Department of Statistics, Brigham Young University 
     - R: TBA
