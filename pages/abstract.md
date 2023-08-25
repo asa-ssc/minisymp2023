@@ -1,11 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Abstract"
+title: "Abstract Submission"
 header: no
 permalink: /abstract/
 ---
-
-#### Abstract Submission Instructions
 
 We're excited to provide a platform where enthusiasts of statistical computing can come together to showcase their work, learn, and network. 
 
