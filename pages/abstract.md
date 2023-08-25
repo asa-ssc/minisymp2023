@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Abstract"
 header: no
-permalink: /sponsors/
+permalink: /abstract/
 ---
 
 #### Abstract Submission Instructions
