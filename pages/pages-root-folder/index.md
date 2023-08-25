@@ -11,10 +11,12 @@ homepage: true
 + **Registration** at [EventBrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
 + **Abstract submission** for the lightning session [here](https://forms.gle/5ZYbePJtAnsqXqhN7) by Monday, Oct. 2, 2023
 
++ [**Flyer:**](https://asa-ssc.github.io/minisymp2022/flyer.pdf)
+
 Organized by the [ASA Section on Statistical Computing](https://community.amstat.org/jointscsg-section/home), the mini-symposium aims to:
 
 + Showcase the power/beauty of statistical computing to students;
 + Help practitioners sharpen their statistical computing skills; and
-+ Foster community across different computing languages.
++ Foster community across different computing communities.
 
 + **History:** [2022](https://asa-ssc.github.io/minisymp2022/)
