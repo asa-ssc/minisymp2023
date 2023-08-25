@@ -5,6 +5,15 @@ header: no
 permalink: /program/
 ---
 
+## Be on the Program
+
+Want to speak in the lightning session?
+
++ **Presentation Time:** Each presentation should be roughly 7 minutes long. Plan accordingly!
++ **Deadline:** The last date for abstract submission is Monday, October 2.
++ **Notification:** Accepted abstracts will be notified by Monday, October 16.
++ **[Submit an abstract](https://forms.gle/Psxvaj15TtJf2WTc8)**
+
 ## Tentative Schedule
 
 All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_Time_Zone).
