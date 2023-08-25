@@ -14,6 +14,10 @@
   url: "/registration/"
   side: left
 
+- title: Abstract
+  url: "/abstract/"
+  side: left
+
 - title: Venue
   url: "/venue/"
   side: left
