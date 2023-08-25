@@ -11,10 +11,9 @@ The registration was designed to encourage becoming Section on Statistical
 Computing (SSC) members. 
 
 - Students:
-    - free for SSC members
+    - Free for SSC members
     - $10 for ASA members but not SSC members
-    - $25 for non-ASA members (the same cose for joining ASA and choose SSC as
-      one of the free sections)
+    - $25 for non-ASA members (... or, even better, [join ASA](https://www.amstat.org/membership/become-a-member) as a student for only $25, select SSC as one of your free sections, then register for the conference for free and enjoy a year of membership benefits!)
 - Non-students:
     - $10 for SSC members
     - $25 for ASA members but not SSC members
