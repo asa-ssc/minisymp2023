@@ -25,3 +25,5 @@ ASA](https://www.amstat.org/membership/become-a-member).
 For ASA members, please keep your ASA member ID handy for registration.
 
 ### Register now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
+
+By registering, you agree to abide by [ASA's Code of Conduct](https://www.amstat.org/meetings/code-of-conduct).
