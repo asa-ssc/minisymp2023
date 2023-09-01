@@ -25,7 +25,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
       of the Practice and the Director of Undergraduate Studies at the
       [Department of Statistical Science](https://stat.duke.edu/), [Duke University](https://duke.edu/); 
 	    and 2023 Chair of the ASA Section on Statistical Computing
-+ 11:10 – 11:50: Keynote Address (Chair: [David Dahl](https://dahl.byu.edu/))
++ 11:10 – 11:50: Keynote Address (Chair: [Mingzhao Hu](https://sites.google.com/view/mingzhaohu))
     - Speaker: [Simon Urbanek](https://urbanek.info),
 	      - Executive Editor of R Journal;
 	      - Senior Lecturer of Data Science, University of Auckland
@@ -43,7 +43,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
     - Abstract submission deadline: Monday, October 2, 2023
     - Notification: Accepted abstracts will be notified by Monday, October 16, 2023
     - Submit your abstract [here](https://forms.gle/5ZYbePJtAnsqXqhN7)
-+ 14:30 - 15:30: Panel Discussion (Moderator: TBA)
++ 14:30 - 15:30: Panel Discussion (Moderator: [David Dahl](https://dahl.byu.edu))
     - Theme: Open-source software, open data, and open computing
     - Panelist:
         + [Tracy Teal](https://www.linkedin.com/in/tracy-teal-059136b/)
