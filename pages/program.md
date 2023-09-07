@@ -35,7 +35,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
     the same problems from the NYC 311 requests data, followed by questions/answers.
     - Julia: [HaiYing Wang](https://ossifragus.github.io), Associate Professor,
       Department of Statistics, University of Connecticut
-    - Python: [Shannon Taas](https://neeley-tass.byu.edu), Associate Professor, 
+    - Python: [Shannon Tass](https://neeley-tass.byu.edu), Associate Professor, 
 	Department of Statistics, Brigham Young University 
     - R: [Lucy D'Agostino McGowan](https://www.lucymcgowan.com/about/), 
 	Assistant Professor, Department of Statistical Sciences,  Wake Forest University
