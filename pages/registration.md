@@ -20,7 +20,7 @@ Computing (SSC) members.
     - $40 for non-ASA members
 - Group watch-party:
     - Register once to host a "watch-party" for students and/or colleagues.
-    - We suggest a $100 donation to support the section, but would thankfully accept more.  😀
+    - We suggest a $100 donation to support the section, but will thankfully accept more.  😀
 
 For non-ASA members, please consider [joining
 ASA](https://www.amstat.org/membership/become-a-member). 
