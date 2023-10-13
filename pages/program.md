@@ -33,10 +33,10 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 + 11:50 – 13:05: Data Jamboree (Chair: [Sam Tyner](https://sctyner.me), Tritura)
     Each language, in alphabetical order, will be allocated 15 minutes to tackle
     the same problems from the NYC 311 requests data, followed by questions/answers.
+    - Python: [Shannon Tass](https://neeley-tass.byu.edu), Associate Professor, 
+      Department of Statistics, Brigham Young University 
     - Julia: [HaiYing Wang](https://ossifragus.github.io), Associate Professor,
       Department of Statistics, University of Connecticut
-    - Python: [Shannon Tass](https://neeley-tass.byu.edu), Associate Professor, 
-	Department of Statistics, Brigham Young University 
     - R: [Lucy D'Agostino McGowan](https://www.lucymcgowan.com/about/), 
 	Assistant Professor, Department of Statistical Sciences,  Wake Forest University
 + 13:10 - 14:25: Lightning Session (Chair: [Kun Chen](https://kun-chen.uconn.edu), University of Connecticut)
