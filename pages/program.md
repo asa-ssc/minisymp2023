@@ -34,7 +34,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
     <!-- - Abstract submission deadline: Monday, October 2, 2023 -->
     <!-- - Notification: Accepted abstracts will be notified by Monday, October 16, 2023 -->
     <!-- - Submit your abstract [here](https://forms.gle/5ZYbePJtAnsqXqhN7) -->
-    - Bowei Xi 
+    - Bowei Xi, Purdue University
 	<details><summary>Title:Vulnerabilities of Deep Learning and Robust Deep
 	Ensemble</summary>
 	Although AI is developing rapidly, AI's vulnerability under adversarial
@@ -52,7 +52,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	-- cannot adequately capture the phenomenon of adversarial examples. We then
 	introduce a deep ensemble with high accuracy over the adversarial examples.
 	</details>
-    - Howard Baek
+    - Howard Baek, Fred Hutch Data Science Lab
 	<details><summary>Introducing Loqui: A Shiny app for Creating Automated
 	Videos</summary>
 	Loqui is an open source web application that enables the creation of
@@ -69,7 +69,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	user-friendly interface allowing individuals to effortlessly create
 	automated videos without the need for programming skills.
 	</details>
-    - Kris Sankaran
+    - Kris Sankaran, University of Wisconsin-Madison
 	<details><summary>Beyond Black Box Simulation</summary>
 	Simulation models have come to play a central role both within and beyond
 	statistics, providing the basis for power analysis in molecular biology,
@@ -87,7 +87,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	code notebooks be accessed
 	[online](https://github.com/krisrs1128/generative_review).
 	</details>
-    - Zoe Rehnberg and Emily Robinson
+    - Zoe Rehnberg and Emily Robinson, California Polytechnic State University
 	<details><summary>Enhancing Statistical Computing Education through Game
 	Plans: A Pedagogical Approach</summary>
 	In statistical computing education, students often grapple with the
@@ -111,7 +111,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	improving students’ proficiency and structured thinking in statistical
 	computing.
 	</details>
-    - Jonathan Sidi
+    - Jonathan Sidi, Sage Therapeutics
 	<details><summary>mmrm: a robust and comprehensive R package for
 	implementing mixed models for repeated measures</summary>
 	Mixed models for repeated measures (MMRM) analysis has been extensively used
@@ -133,7 +133,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	tidymodels framework. We aim to establish {mmrm} as a new standard for
 	fitting MMRM.
 	</details>
-    - Shane Sacco
+    - Shane Sacco, University of Connecticut
 	<details><summary>Tips and tricks to improve the speed of your prediction
 	pipelines and other analyses</summary>
 	Statistical analysis on large datasets may take days or even weeks to
@@ -148,7 +148,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	will focus on analyses in R, but will also make suggestions for Python when
 	appropriate.
 	</details>
-    - David Corliss
+    - David Corliss, Peace-Work
 	<details><summary>Designing Against Bias in Machine Learning and
 	AI</summary>
 	Bias in machine learning algorithms is one of the most important ethical and
@@ -161,7 +161,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	the mitigation of bias. These design strategies are described in detail with
 	examples and source code in R, Python, and SAS.
 	</details>
-    - Yulia Marchenko
+    - Yulia Marchenko, StataCorp LLC
 	<details><summary>Software reproducibility in a nutshell</summary>
 		Reproducibility of scientific studies has been gaining increasing
 	attention in recent years. But what exactly is reproducibility? How is it
@@ -170,7 +170,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	in our data analysis? And what role does software play for reproducibility?
 	In this presentation, I will briefly address these questions and more.
 	</details>
-    - Arinjita Bhattacharyya
+    - Arinjita Bhattacharyya, Merck
 	<details><summary>AACTREVEAL – An R Package for Analysis and Aggregation of
 	the Content of ClinicalTrials.gov</summary>
 	Aggregate Content of ClinicalTrials.gov (AACT) is a publicly available
