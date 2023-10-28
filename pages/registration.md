@@ -20,6 +20,7 @@ Computing (SSC) members.
     - $40 for non-ASA members
 - Group watch-party:
     - Register once to host a "watch-party" for students and/or colleagues.
+        - Los Angeles - [UCLA Watch Party](https://calendar.library.ucla.edu/event/11429849?k=0d1dd3535f028173994172bf454b29ac) 
     - We suggest a $100 donation to support the section, but will thankfully accept more.  😀
 
 For non-ASA members, please consider [joining
