@@ -15,6 +15,6 @@ Organized by the [ASA Section on Statistical Computing](https://community.amstat
 
 + Showcase the power/beauty of statistical computing to students;
 + Help practitioners sharpen their statistical computing skills; and
-+ Foster community across different computing communities.
++ Foster community across different computing languages.
 
 + **History:** [2022](https://asa-ssc.github.io/minisymp2022/)
