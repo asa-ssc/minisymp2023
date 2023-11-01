@@ -7,7 +7,7 @@ homepage: true
 ---
 
 + **Date/Time:** Saturday, November 4, 2023, 11 am -– 3:30 pm Central Time
-+ **Location:** Online
++ **Location:** Online. For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2023" sent sometime on Thursday, November 2.
 + **Registration** at [EventBrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
 + [**Flyer**](https://asa-ssc.github.io/minisymp2023/assets/flyer.pdf)
 
