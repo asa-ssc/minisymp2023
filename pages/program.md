@@ -21,15 +21,16 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	      - Executive Editor of R Journal;
 	      - Senior Lecturer of Data Science, University of Auckland
     - Title: R in Big Action: Handling large data sets and R as a service
-+ 11:50 – 13:05: Data Jamboree (Chair: [Sam Tyner](https://sctyner.me), Tritura)
++ 11:50 – 13:05: Data Jamboree (Chair: [Sam Tyner](https://sctyner.me), DLA Piper)
     Each language, in alphabetical order, will be allocated 15 minutes to tackle
     the same problems from the NYC 311 requests data, followed by questions/answers.
     - Python: [Shannon Tass](https://neeley-tass.byu.edu), Associate Professor, 
-      Department of Statistics, Brigham Young University 
+      Department of Statistics, Brigham Young University. [Code](https://github.com/esnt/Jamboree)
     - Julia: [HaiYing Wang](https://ossifragus.github.io), Associate Professor,
       Department of Statistics, University of Connecticut
     - R: [Lucy D'Agostino McGowan](https://www.lucymcgowan.com/about/), 
-	Assistant Professor, Department of Statistical Sciences,  Wake Forest University
+	Assistant Professor, Department of Statistical Sciences,  Wake
+	Forest University. [Code](https://github.com/LucyMcGowan/2023-data-jamboree)
 + 13:10 - 14:25: Lightning Session (Chair: [Kun Chen](https://kun-chen.uconn.edu), University of Connecticut)
     <!-- - Abstract submission deadline: Monday, October 2, 2023 -->
     <!-- - Notification: Accepted abstracts will be notified by Monday, October 16, 2023 -->
