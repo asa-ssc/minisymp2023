@@ -12,7 +12,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 + 11:00 – 11:10: Welcoming Remark (Chair: [David Dahl](https://dahl.byu.edu/), Brigham Young University)
     - [Ron Wasserstein](https://www.amstat.org/about-asa/ronald-l-wasserstein),
 	Executive Director, [American Statistical Association](https://www.amstat.org/)
-    - [Mine Cetinkya-Rundel](https://scholars.duke.edu/person/mine), Professor
+    - [Mine Cetinkaya-Rundel](https://scholars.duke.edu/person/mine), Professor
       of the Practice and the Director of Undergraduate Studies at the
       [Department of Statistical Science](https://stat.duke.edu/), [Duke University](https://duke.edu/); 
 	    and 2023 Chair of the ASA Section on Statistical Computing
