@@ -27,7 +27,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
     - Python: [Shannon Tass](https://neeley-tass.byu.edu), Associate Professor, 
       Department of Statistics, Brigham Young University. [Code](https://github.com/esnt/Jamboree)
     - Julia: [HaiYing Wang](https://ossifragus.github.io), Associate Professor,
-      Department of Statistics, University of Connecticut
+      Department of Statistics, University of Connecticut. [Code](https://github.com/Ossifragus/DataJamboree)
     - R: [Lucy D'Agostino McGowan](https://www.lucymcgowan.com/about/), 
 	Assistant Professor, Department of Statistical Sciences,  Wake
 	Forest University. [Code](https://github.com/LucyMcGowan/2023-data-jamboree)
